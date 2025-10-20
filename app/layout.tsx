@@ -39,14 +39,14 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL('https://offer.maroorode.com'),
+  metadataBase: new URL('https://flashsale.maroorode.com'),
   alternates: {
     canonical: '/',
   },
   openGraph: {
     title: "3-Day Website Flash Sale | Professional Web Design | Maro Orode",
     description: "🚀 Limited Time Offer: Get your professional website built in just 3 days! Only 10 slots available at ₦100,000. Includes responsive design, free domain & hosting, WhatsApp integration, SEO setup. Perfect for small businesses, professionals, churches & creatives.",
-    url: 'https://offer.maroorode.com',
+    url: 'https://flashsale.maroorode.com',
     siteName: 'Maro Orode Web Design',
     images: [
       {
